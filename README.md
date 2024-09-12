@@ -10,24 +10,39 @@ This dataset was published in 1996 and contains health statistics and categorica
 
 # Models Used
 Logistic Regression
+
 K-Nearest Neighbors
+
 Decision Tree
+
 Random Forest
+
 Support Vector Machine
+
 Naive Bayes
+
 Linear Discriminant Analysis
+
 Gradient Boosting Classifier
+
 AdaBoost Classifier
+
 MLP Classifier
 
 # Evaluation Metrics
 Accuracy
+
 Precision
+
 Recall
+
 F1 Score
+
 ROC AUC Score
 
 # Visualizations
 Confusion Matrix
+
 ROC Curve
+
 Feature Importance (for Random Forest)
